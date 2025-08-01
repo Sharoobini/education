@@ -1,0 +1,5 @@
+[
+  { "name": "ABC School", "status": "filled" },
+  { "name": "XYZ School", "status": "pending" },
+  { "name": "DEF School", "status": "filled" }
+]
